@@ -4,4 +4,9 @@ master two
 testing one
 testing two
 
+<<<<<<< HEAD
 master123
+=======
+12133123
+testing 123
+>>>>>>> testing
